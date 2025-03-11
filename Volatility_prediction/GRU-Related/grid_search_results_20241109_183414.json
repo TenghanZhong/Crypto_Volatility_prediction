@@ -1,0 +1,11 @@
+{
+    "Best Parameters": {
+        "activation": "tanh",
+        "batch_size": 16,
+        "dropout_rate": 0.2,
+        "epochs": 25,
+        "layer_numbers": 3,
+        "units": 256
+    },
+    "Best MAE": 0.3558785999587822
+}
