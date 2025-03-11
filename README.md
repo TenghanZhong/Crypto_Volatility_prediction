@@ -1,5 +1,5 @@
 # Crypto_Volatility_prediction
-We propose two novel hybrid models that combine the strengths of GARCH-type models with GRU neural networks to enhance the volatility forecasting in cryptocurrency markets.
+We propose two types pf novel hybrid models that combine the strengths of GARCH-type models with GRU neural networks to enhance the volatility forecasting in cryptocurrency markets.
 
 📌 **Hybrid Cryptocurrency Volatility Prediction: GARCH + GRU**
 This repository presents an advanced framework for cryptocurrency volatility forecasting, combining traditional GARCH-type models with Gated Recurrent Unit (GRU) networks. By leveraging both econometric modeling and deep learning, this approach enhances volatility prediction accuracy across short-term and long-term horizons.
