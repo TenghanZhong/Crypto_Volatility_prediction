@@ -23,6 +23,7 @@ Traditional volatility forecasting models, such as AVARCH and FIGARCH, often str
 ---
 
 🚀 **Workflow**
+
 <img width="232" alt="image" src="https://github.com/user-attachments/assets/394fc12f-4153-4dbe-8f24-6e80d98a3154" />     <img width="422" alt="image" src="https://github.com/user-attachments/assets/ee2a0f3c-7314-4394-8a74-731bbe2b0371" />
 
 1️⃣ **Data Preprocessing & Segmentation**  
